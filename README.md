@@ -1,6 +1,6 @@
 # Transcendence
 
-create a website with an online pong game and a chat, all of this in a docker network using react for the front and nestjs for the back with postgresql database
+Create a website with an online pong game and a chat, all of this in a docker network using react for the front and nestjs for the back with postgresql database
 
 ## How to launch the program
 
@@ -9,7 +9,7 @@ create a website with an online pong game and a chat, all of this in a docker ne
    ```sh
    $ make
    ```
-then go to this URL on your navigator:
+2. then go to this URL on your navigator:
 
    ```sh
    $ http://localhost:3000
